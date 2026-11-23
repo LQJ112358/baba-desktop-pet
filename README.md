@@ -84,8 +84,7 @@ baba-desktop-pet/
 ├─ tools/
 │  ├─ build_dog.py          # 生成小狗身体 + 人物头部帧
 │  ├─ build_final.py        # 绘制工具、气泡和 BMP 导出
-│  ├─ make_icon.py          # 生成 ico
-│  └─ make_shortcut.ps1     # 本机快捷方式脚本（可选）
+│  └─ make_icon.py          # 生成 ico
 └─ README.md
 ```
 
