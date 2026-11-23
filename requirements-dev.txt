@@ -1,0 +1,4 @@
+# Only needed for rebuilding assets with tools/*.py.
+# The desktop pet itself runs on the Python standard library alone.
+Pillow>=10.0
+numpy>=1.24

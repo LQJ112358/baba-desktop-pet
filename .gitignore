@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+pet.log
+tmp/
+source/
+*.lnk
+preview.local.*
+.final_shot*.png
